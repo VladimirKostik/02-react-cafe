@@ -1,1 +1,1 @@
-export { default } from './CafeInfo.tsx';
+export { default } from './CafeInfo';

@@ -1,1 +1,1 @@
-export { default } from './VoteStats.tsx'
+export { default } from './VoteStats'
